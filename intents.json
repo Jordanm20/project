@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "tag": "Biblioteca",
+      "patterns": [
+        "Para prestar un libro, necesita acercarse a la biblioteca, elegir el libro a prestar y acercase a recepción con el libro y el carnet, para que el encargado lo ayude con su solicitud"
+      ],
+      "responses": [
+        "Como puedo prestar un libro en la biblioteca",
+        "Procedimiento para prestar un libro en la biblioteca",
+        "Pasos para prestar un libro en la biblioteca",
+        "Cual es la forma en la que puedo prestar un libro"
+      ]
+    },
+    {
+      "tag": "RedesA",
+      "patterns": [
+        "El encargado del Laboratorio de redes avanzadas es, el Ingeniero Carlos Cedeño."
+      ],
+      "responses": [
+        "Como puedo prestar un libro en la biblioteca",
+        "Procedimiento para prestar un libro en la biblioteca",
+        "Pasos para prestar un libro en la biblioteca",
+        "Cual es la forma en la que puedo prestar un libro"
+      ]
+    },
+    {
+      "tag": "Cubículo",
+      "patterns": [
+        "Para prestar un cubículo, necesita acercarse a recepción con el carnet, para que el encargado lo ayude con su solicitud"
+      ],
+      "responses": [
+        "Como puedo prestar un cubiculo",
+        "Como puedo prestar un cubículo",
+        "Como puedo usar un cubiculo",
+        "Como puedo usar un cubículo",
+        "Procedimiento para usar un cubiculo",
+        "Procedimiento para usar un cubículo",
+        "Procedimiento para prestar un cubiculo",
+        "Procedimiento para prestar un cubículo",
+        "Pasos para prestar un cubículo",
+        "Pasos para prestar un cubiculo",
+        "Cual es la forma en la que puedo prestar un cubículo"
+      ]
+    }
+  ]
+}
